@@ -1,4 +1,4 @@
-# Android-SSL-Pinning-Bypass
+# Android-SSL-Pinning-Bypass in Android 13 or below
 
 ------------------------------------------------------------
 
