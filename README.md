@@ -1,7 +1,7 @@
 # Android-SSL-Pinning-Bypass
-[Android 13 or below](android-SSL-Pinning-Bypass-in-Android-13-or-below)
+[Android 13 or below](#android-SSL-Pinning-Bypass-in-Android-13-or-below)
 
-[Android 14 or upper](Android-SSL-Pinning-Bypass-in-Android-14-or-upper)
+[Android 14 or upper](#Android-SSL-Pinning-Bypass-in-Android-14-or-upper)
 
 # Android-SSL-Pinning-Bypass in Android 13 or below
 
