@@ -44,6 +44,7 @@ chcon u:object_r:system_file:s0 /system/etc/security/cacerts/*
 
 # Android-SSL-Pinning-Bypass in Android 14 or upper
 
+### Copy this as .sh -> push it to your emulator and give execute permission -> run
 
 ```
 # Create a separate temp directory, to hold the current certificates
